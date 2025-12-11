@@ -81,3 +81,20 @@ Unlike a standalone utility app, the local cafe siren order platform relies on a
 ## Conclusion
 The local coffee shop Siren order project aims to revolutionize the coffee culture for students, professionals, and independent business owners by addressing the critical conflict between convenience and quality. Currently, coffee lovers are often forced to choose between the efficiency of major franchises and the superior taste of local coffee shops. By prioritizing a user-centered design that supports deep customization and real-time ordering, the app provides a seamless, premium experience that empowers users to save time without compromising on taste.
 Through community-focused innovation and sustainable workflow integration, this project bridges the technological gap between modern consumers and local coffee shops, empowering small businesses to reclaim market share. By promoting the local economy, reducing wait-time frustration, and supporting a diverse coffee culture, this project demonstrates the power of technology to create meaningful, lasting solutions that benefit both the consumer and the small business community.
+
+## Reference
+Atlassian. (n.d.). The agile coach. Atlassian. Retrieved December 11, 2025, from https://www.atlassian.com/agile
+
+Fowler, M. (2019, October 1). Technical debt. MartinFowler.com. https://martinfowler.com/bliki/TechnicalDebt.html
+ 
+Meta Open Source. (n.d.). Introduction to React Native. React Native. Retrieved December 11, 2025, from https://reactnative.dev/docs/getting-started
+
+MongoDB. (n.d.). What is NoSQL? NoSQL databases explained. MongoDB. Retrieved December 11, 2025, from https://www.mongodb.com/resources/basics/databases/nosql-explained
+ 
+OpenJS Foundation. (n.d.). About Node.js. Node.js. Retrieved December 11, 2025, from https://nodejs.org/en/about/
+ 
+Open Source Initiative. (n.d.). The open source definition. Retrieved December 11, 2025, from https://opensource.org/osd
+ 
+Figure 1, Starbucks Corporation. (2021, October 28). Starbucks reports record Q4 and full year fiscal 2021 results. Starbucks Stories & News. https://www.geekwire.com/2024/as-starbucks-slumps-howard-schultz-says-coffee-giant-should-reinvent-mobile-ordering/
+
+Figure 2, Cafely. (2024, April 23). Cafely Releases 2024 Coffee Statistics - Breakdown by Country, Region, and Demographics. Cafely. https://cafely.com/blogs/research/coffee-statistics
