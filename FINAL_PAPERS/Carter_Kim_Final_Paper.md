@@ -2,6 +2,6 @@
 Carter Kim, Fall 25
 
 
-### Introduction/Headings    
+### Introduction
 
 
