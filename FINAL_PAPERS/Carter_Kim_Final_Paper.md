@@ -58,33 +58,26 @@ Unlike a standalone utility app, the local cafe siren order platform relies on a
 
 1.The partner network (local cafe owners) The foundation of our community is the network of local coffee shops. Unlike big franchises, these owners often lack technical expertise but possess deep knowledge of coffee.
 
-*    Engagement strategy: we will establish a Partner council, a small group of early adopter cafe owners who provide direct feedback on the dashboard's usability and operational workflow.
+* Engagement strategy: we will establish a Partner council, a small group of early adopter cafe owners who provide direct feedback on the dashboard's usability and operational workflow.
  
-*    Support & education: Instead of standard technical documentation, we will provide operational playbooks and video guides on how to integrate mobile orders into a busy barista workflow without disrupting service quality. 
+* Support & education: Instead of standard technical documentation, we will provide operational playbooks and video guides on how to integrate mobile orders into a busy barista workflow without disrupting service quality. 
 
 * Value proposition: by framing the app as a "Small Business Alliance," we foster a sense of solidarity among owners, encouraging them to promote the app to their loyal customers as a way to support local commerce. 
 
 2.The user community (coffee enthusiasts) For the consumers, the community strategy shifts from "utility" to "discovery and taste." The goal is to turn passive customers into active advocates for local coffee.
    
-  2a)Social discovery: the app will feature a "bean review" and "cafe discovery" forum where users can share tasting notes and recommend hidden gems. This taps into the "coffee connoisseur" aspect of the target audience.
+* Social discovery: the app will feature a "bean review" and "cafe discovery" forum where users can share tasting notes and recommend hidden gems. This taps into the "coffee connoisseur" aspect of the target audience.
    
-  2b)Campus ambassadors: we will recruit student ambassadors(from u of i) to promote the app during exam week which is a prime time for caffeine consumption, creating a grassroots movement against franchise dominance. 
+* Campus ambassadors: we will recruit student ambassadors(from u of i) to promote the app during exam week which is a prime time for caffeine consumption, creating a grassroots movement against franchise dominance. 
   
-  2c)Gamification: we will implement a community wide local loyalty leaderboard, rewarding users who visit the most unique local shops, encouraging exploration over routine. 
+* Gamification: we will implement a community wide local loyalty leaderboard, rewarding users who visit the most unique local shops, encouraging exploration over routine. 
 
 3.The developer guild (open source contributors) This group focuses on the technical scalability of the platform. 
 
-  3a) Focus Areas: we will direct open-source contributions toward specific technical challenges, such as POS API Integrations (connecting to Square, Toast, Clover) and Latency Optimization.
+* Focus Areas: we will direct open-source contributions toward specific technical challenges, such as POS API Integrations (connecting to Square, Toast, Clover) and Latency Optimization.
    
-  3b) Hackathons: We will host tech for local hackathons, inviting computer science students to build plugins or features that specifically help small businesses, adding a social good motivation to their code contributions. 
+*  Hackathons: We will host tech for local hackathons, inviting computer science students to build plugins or features that specifically help small businesses, adding a social good motivation to their code contributions. 
 
 ## Conclusion
 The local coffee shop Siren order project aims to revolutionize the coffee culture for students, professionals, and independent business owners by addressing the critical conflict between convenience and quality. Currently, coffee lovers are often forced to choose between the efficiency of major franchises and the superior taste of local coffee shops. By prioritizing a user-centered design that supports deep customization and real-time ordering, the app provides a seamless, premium experience that empowers users to save time without compromising on taste.
 Through community-focused innovation and sustainable workflow integration, this project bridges the technological gap between modern consumers and local coffee shops, empowering small businesses to reclaim market share. By promoting the local economy, reducing wait-time frustration, and supporting a diverse coffee culture, this project demonstrates the power of technology to create meaningful, lasting solutions that benefit both the consumer and the small business community.
-
-
-
-
-
-
-
